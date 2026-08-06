@@ -145,7 +145,7 @@ export default function About() {
                   </div>
 
                   <div className="text-cyan-400 font-semibold">
-                    GPA 3.71 / 4.0
+                    GPA 3.74 / 4.0
                   </div>
 
                 </div>
