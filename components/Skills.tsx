@@ -15,6 +15,7 @@ const skillCategories = [
     icon: Code2,
     skills: [
       "Python",
+      "JavaScript",
       "Java",
       "C++",
       "C",
@@ -59,6 +60,9 @@ const skillCategories = [
     skills: [
       "Flask",
       "REST APIs",
+      "TypeScript",
+      "Next.js",
+      "React.js"
       "Git",
       "GitHub",
       "Docker",
