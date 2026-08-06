@@ -62,7 +62,7 @@ const skillCategories = [
       "REST APIs",
       "TypeScript",
       "Next.js",
-      "React.js"
+      "React.js",
       "Git",
       "GitHub",
       "Docker",
